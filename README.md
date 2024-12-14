@@ -1,5 +1,5 @@
 ## hi
-i do competitive programmming and stuff
+i do [competitive programmming](https://codeforces.com/profile/Ina) and stuff. check out my repos
 <!--
 **01-1/01-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
