@@ -1,5 +1,8 @@
 ## hi
-i do [competitive programming](https://codeforces.com/profile/Ina) and stuff.
+in a previous life i was a [competitive programmer](https://codeforces.com/profile/Ina). now i am a competitive utility maximizer. i believe in minimizing x-risks and astronomical waste, the largest of which is AI doom.
+
+i am also making random games and stuff.
+
 <!--
 **01-1/01-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
