@@ -1,6 +1,3 @@
-## hi
-in a previous life i was a [competitive programmer](https://codeforces.com/profile/fast-fourier-transfem). now i am a competitive utility maximizer. i believe in minimizing x-risks and astronomical waste, the largest of which is AI doom.
-
 personal site: [meowc.at](https://meowc.at). my site also contains some repositories not included in the below 5.
 
 <!--
