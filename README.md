@@ -3,7 +3,7 @@ personal site: [meowc.at](https://meowc.at). my site also contains some reposito
 <h4>some hackathons/competitions i've participated in:</h4>
 <p><a href="https://github.com/01-1/awap-2025-bots" rel="nofollow noreferrer noopener">1st place submission for AWAP (Algorithms With A Purpose) 2025</a></p>
 <p><a href="https://github.com/01-1/gol-soup-farm" rel="nofollow noreferrer noopener">1st place submission for Cellula 4x4 Gene-Type BitLife Hackathon</a></p>
-<p><a href="https://github.com/kawashite/poker-engine-2024" rel="nofollow noreferrer noopener">2nd place submission for the 2024 CMU AI Poker competition</a></p>
+<p><a href="https://github.com/01-1/poker-engine-2024" rel="nofollow noreferrer noopener">2nd place submission for the 2024 CMU AI Poker competition</a></p>
 <p><a href="https://github.com/01-1/AOC" rel="nofollow noreferrer noopener">Advent of Code solutions, 2023-24.</a> Placed among the top 100 contestants several times, without the use of LLMs.</p>
 
 <!--
