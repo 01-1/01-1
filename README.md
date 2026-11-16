@@ -1,4 +1,5 @@
-personal site: [meowc.at](https://meowc.at). former [competitive programmer](https://codeforces.com/profile/fast-fourier-transfem). my site also contains some repositories not included in the below 5.
+personal site: [meowc.at](https://meowc.at). former [competitive programmer](https://codeforces.com/profile/fast-fourier-transfem). 
+my site also contains some repositories not included in the below.
 
 <h4>some hackathons/competitions i've participated in:</h4>
 <p><a href="https://github.com/01-1/awap-2025-bots" rel="nofollow noreferrer noopener">1st place submission for AWAP (Algorithms With A Purpose) 2025</a></p>
